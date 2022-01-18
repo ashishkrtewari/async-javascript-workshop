@@ -10,4 +10,4 @@
 
 ## Promise.js
 
-> How to Create and resolve/reject a Promise
+> How to Create and resolve/reject a Promise.
